@@ -3,7 +3,8 @@ import { FaSearch } from "react-icons/fa";
 
 export default function AfterHero() {
   return (
-    <div className="h-[36rem]  items-center flex">
+  
+    <div className="h-[35rem]  items-center flex">
       <div className="  bg-purple-100 bg-no-repeat bg-cover content-center flex items-center justify-center h-72 w-full">
         {" "}
         {/* bg-[url('../Images/afterhero.png')] */}

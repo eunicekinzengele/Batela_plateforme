@@ -14,7 +14,8 @@ module.exports = {
         'HeroImage': "url('../images/HeroImage.png')",
       },
       height: {
-        '128': '36rem',
+        '128': '40rem',
+        '120': '35rem',
       }
     },
   },
