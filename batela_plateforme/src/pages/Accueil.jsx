@@ -1,11 +1,11 @@
 import React from "react";
-import NavBar from "../pages/NavBar.jsx";
-import Hero from "../pages/Hero.jsx";
-import AfterHero from "../pages/AfterHero.jsx";
-import CardOfSomeCommunity from "../pages/CardOfSomeCommunity.jsx";
-import About from "../pages/About.jsx";
-import Beforefooter from '../pages/Beforefooter';
-import Footer from '../pages/Footer';
+import NavBar from "./NavBar.jsx";
+import Hero from "./Hero.jsx";
+import AfterHero from "./AfterHero.jsx";
+import CardOfSomeCommunity from '../pages/CardOfSomeCommunity';
+import About from "./About.jsx";
+import Beforefooter from './Beforefooter';
+import Footer from './Footer';
 
 // import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu";
 

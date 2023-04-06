@@ -1,7 +1,9 @@
 import React from 'react'
-import NavBar from '../pages/NavBar';
+import NavBar from './NavBar';
 import HeroDomains from './HeroDomains';
 import AllDomains from './AllDomains';
+import Footer from './Footer';
+
 
 export default function Domaines() {
   return (
@@ -9,7 +11,7 @@ export default function Domaines() {
       <NavBar/>
       <HeroDomains/>
       <AllDomains/>
-      
+      <Footer/>
       
     </div>
   )
