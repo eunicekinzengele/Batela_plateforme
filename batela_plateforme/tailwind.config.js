@@ -13,15 +13,21 @@ module.exports = {
       backgroundImage: {
         'HeroImage': "url('../images/HeroImage.png')",
       },
+      dropShadow: {
+        '3xl': '35px 35px 35px 35px rgba(0, 0, 0, 0.25)',
+      },
       height: {
-        '128': '40rem',
-        '120': '35rem',
-        '110': '30rem',
         '100': '25rem',
+        '110': '30rem',
+        '120': '35rem',
+        '128': '40rem',
       },
       width:{
-        '115': '30rem',
         '110': '28rem',
+        '115': '30rem',
+        '116': '40rem',
+        '120': '50rem',
+        '125': '55rem',
         '130': '60rem',
       }
     },
